@@ -1,0 +1,59 @@
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\MyMod.dll
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\MyMod.pdb
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\Assembly-CSharp.dll
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\UnityEngine.dll
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\UnityEngine.UI.dll
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Dylan\Desktop\MyModTemplate\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Dylan\Desktop\MyModTemplate\obj\Debug\MyModTemplate.csprojAssemblyReference.cache
+C:\Users\Dylan\Desktop\MyModTemplate\obj\Debug\MyModTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Desktop\MyModTemplate\obj\Debug\MyModTemplate.csproj.CopyComplete
+C:\Users\Dylan\Desktop\MyModTemplate\obj\Debug\MyMod.dll
+C:\Users\Dylan\Desktop\MyModTemplate\obj\Debug\MyMod.pdb
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\MyMod.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\MyMod.pdb
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\Assembly-CSharp-firstpass.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\Assembly-CSharp.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\Unity.SerializationLogic.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\UnityEngine.AnimationModule.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\UnityEngine.AssetBundleModule.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\UnityEngine.AudioModule.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\UnityEngine.BaselibModule.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\UnityEngine.CoreModule.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\UnityEngine.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\UnityEngine.ImageConversionModule.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\UnityEngine.IMGUIModule.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\UnityEngine.ParticleSystemModule.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\UnityEngine.PhysicsModule.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\UnityEngine.SubstanceModule.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\UnityEngine.UI.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\UnityEngine.UIElementsModule.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\UnityEngine.UIModule.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\UnityEngine.UnityConnectModule.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\UnityEngine.UnityWebRequestAssetBundleModule.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\UnityEngine.UnityWebRequestAudioModule.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\UnityEngine.UnityWebRequestModule.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\UnityEngine.UnityWebRequestTextureModule.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\UnityEngine.UnityWebRequestWWWModule.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\bin\Release\UnityEngine.VRModule.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\obj\Debug\MyModTemplate.csproj.CoreCompileInputs.cache
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\obj\Debug\MyMod.dll
+F:\Users\Imran\Desktop\Games\GORN Modding\2HWeaponTemplate\obj\Debug\MyMod.pdb
